@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lilibeth Langat</h1>
 <h3 align="center">A passionate data scientist</h3>
 
-- 🔭 I’m currently working on [Chicago Car Crashes](https://github.com/lilibethlangat/Chicago-Car-Crashes)
 
 - 🌱 I’m currently learning **Machine Learning**
 
